@@ -87,7 +87,7 @@ Model Performance Metrics:
 - **Risk Management**: Scenario planning with confidence intervals
 - **Performance Monitoring**: Benchmark actual vs predicted performance
 
-## 🔄 Potential Enhancements
+## Potential Enhancements
 
 -  **Multi-store Scaling**: Extend analysis to all 45 stores
 -  **Dynamic Economic Inputs**: Integrate live economic data feeds
@@ -95,7 +95,7 @@ Model Performance Metrics:
 -  **Regional Clustering**: Group stores by demographic similarities
 
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates proficiency in:
 
