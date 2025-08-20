@@ -43,7 +43,7 @@ This project tackles a critical business challenge in retail: **sales forecastin
 - **Trend Capture**: Successfully models both seasonal spikes and baseline trends
 - **Holiday Accuracy**: Precisely predicts 35-40% sales increases during peak seasons
 
-## 📈 Results & Insights
+## Results & Insights
 
 ### Business Impact
 - **52-Week Forecast**: Generated comprehensive sales projections for strategic planning
