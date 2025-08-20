@@ -89,10 +89,10 @@ Model Performance Metrics:
 
 ## 🔄 Potential Enhancements
 
-- [ ] **Multi-store Scaling**: Extend analysis to all 45 stores
-- [ ] **Dynamic Economic Inputs**: Integrate live economic data feeds
-- [ ] **Real-time Updates**: Implement automated model retraining
-- [ ] **Regional Clustering**: Group stores by demographic similarities
+-  **Multi-store Scaling**: Extend analysis to all 45 stores
+-  **Dynamic Economic Inputs**: Integrate live economic data feeds
+-  **Real-time Updates**: Implement automated model retraining
+-  **Regional Clustering**: Group stores by demographic similarities
 
 
 ## 📚 Learning Outcomes
