@@ -68,12 +68,10 @@ The model generates comprehensive forecasts with:
 - Economic factor impact assessment
 
 ### Performance Metrics
-```
-Model Performance Metrics:
+
 - Mean Absolute Error: $75,248
 - Root Mean Square Error: $105,294  
 - Mean Absolute Percentage Error: 4.76%
-```
 
 ## Business Applications
 
